@@ -9,7 +9,7 @@ Here are some ideas to get you started: -->
 - 🌱 I’m currently learning C++
 - 👯 I’m looking to collaborate on Blender org
 - 💬 Ask me about Design and Coding
-- 📫 How to reach me: [Twitter:](https://twitter.com/atharvamogade)
+- 📫 How to reach me: [Twitter: @atharvamogade](https://twitter.com/atharvamogade)
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
