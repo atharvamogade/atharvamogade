@@ -9,8 +9,8 @@ Here are some ideas to get you started: -->
 - 🌱 I’m currently learning Java and DSA
 - 💬 Ask me about Design and Coding
 - 📫 Twitter: [@atharvamogade](https://twitter.com/atharvamogade)
+- 😄 Pronouns: He/Him
 <!-- - 👯 I’m looking to collaborate on Blender org -->
 <!-- - 🤔 I’m looking for help with ... -->
-- 😄 Pronouns: He/Him
 <!-- - ⚡ Fun fact: ... -->
 
