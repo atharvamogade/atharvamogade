@@ -11,6 +11,6 @@ Here are some ideas to get you started: -->
 - 📫 Twitter: [@atharvamogade](https://twitter.com/atharvamogade)
 <!-- - 👯 I’m looking to collaborate on Blender org -->
 <!-- - 🤔 I’m looking for help with ... -->
-<!-- - 😄 Pronouns: ... -->
+- 😄 Pronouns: He/Him
 <!-- - ⚡ Fun fact: ... -->
 
