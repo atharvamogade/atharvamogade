@@ -6,7 +6,7 @@
 Here are some ideas to get you started: -->
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning Java and DSA
+- 🌱 I’m currently learning JavaScript
 - 💬 Ask me about Design and Coding
 - 📫 Twitter: [@atharvamogade](https://twitter.com/atharvamogade)
 - 😄 Pronouns: He/Him
