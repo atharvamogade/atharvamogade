@@ -10,6 +10,7 @@ Here are some ideas to get you started: -->
 - 💬 Ask me about Design and Coding
 - 📫 Twitter: [@atharvamogade](https://twitter.com/atharvamogade)
 - 😄 Pronouns: He/Him
+- ⚡ Building Proof of Work on [fueler.io](https://fueler.io)
 <!-- - 👯 I’m looking to collaborate on Blender org -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - ⚡ Fun fact: ... -->
